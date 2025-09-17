@@ -1,0 +1,2 @@
+# ember
+Lightweight embeddings package
